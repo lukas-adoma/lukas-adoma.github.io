@@ -1,7 +1,7 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Real Dark Planet
+email: 
+description: > Our platform lets members stay informed about ongoing class action lawsuits related to data privacy violations. We provide updates on the progress of these cases and allow you to join in the legal action as a plaintiff, potentially generating additional income from settlements you rightfully deserve. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
